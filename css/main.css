@@ -30,12 +30,6 @@ a, a:link, a:active, a:hover, a:visited {
   text-decoration: none;
 }
 
-a:hover,
-a:active {
-/*   fill: #e60073;
-  color: #e60073; */
-}
-
 h1 {
   font-size: 64px;
 }
